@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mimiraks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any project that you think my skills will be useful for
 - 📫 How to reach me ...miracleomonu@gmail.com
 
 <!---
